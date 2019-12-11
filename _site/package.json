@@ -1,11 +1,11 @@
 {
-    "title": "Freelancer",
-    "name": "startbootstrap-freelancer",
+    "title": "Portfolio",
+    "name": "portfolio-gussouzauni",
     "version": "5.1.3",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A freelancer portfolio HTML theme for Bootstrap.",
+    "description": "Portfolio",
     "keywords": [
         "css",
         "sass",
@@ -14,13 +14,13 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/freelancer",
+    "homepage": "https://github.com/gussouzauni/portfolio",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "#",
+        "email": "gustavo10ssouza@gmail.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "#",
     "contributors": [
         "David Miller (http://davidmiller.io/)"
     ],
