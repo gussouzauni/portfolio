@@ -13,8 +13,13 @@ $message = strip_tags(htmlspecialchars($_POST['message']));
 // Create the email and send the message
 $to = "gustavo10ssouza@gmail.com"; // Add your email address inbetween the "" replacing yourname@yourdomain.com - This is where the form will send a message to.
 $subject = "Portfolio - Formulário de Contato:  $name";
-$body = "Você tem uma nova mensagem.\n\n"."Detalhes da Mensagem:\n\nNome: $name\n\nEmail: $email\n\nTelefone: $phone\n\nMensagem:\n$message";
-$header = "From: noreply@gmail.com\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
+$body = "Você tem uma nova mensagem.\n\n".
+"Detalhes da Mensagem:\n\n
+Nome: $name\n\n
+Email: $email\n\n
+Telefone: $phone\n\n
+Mensagem:\n$message";
+$header = "From: gustavo10ssouza@gmail.com\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
 $header .= "Reply-To: $email";
 
 if(!mail($to, $subject, $body, $header))

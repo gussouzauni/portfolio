@@ -10,6 +10,8 @@
   }
   .masthead-avatar {
     width: 15rem;
+    border-radius: 50%;
+    border: 1px solid #2c3e50;
   }
 }
 
@@ -24,6 +26,5 @@
     .masthead-subheading {
       font-size: 1.5rem;
     }
-
   }
 }
