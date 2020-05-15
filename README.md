@@ -8,9 +8,6 @@ Repositório do meu portfolio de projetos desenvolvidos na área de tecnologia.
 
 <p align="center">Baseado em https://startbootstrap.com/previews/freelancer/</p>
 
-```bash
-Créditos ao autor
-```
 
 <h2 align="center">Contribuição</h2>
 
