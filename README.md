@@ -18,7 +18,9 @@ Repositório do meu portfolio de projetos desenvolvidos na área de tecnologia.
 <h2 align="center">Contato</h2>
 <p align="center">
 
-<img src="https://marcas-logos.net/wp-content/uploads/2020/03/GITHUB-LOGO-768x432.png" width="75" height="45" alt="Meu Github" href="https://github.com/gussouzauni"/>
+<a alt="Gustavo da Silva Souza Github" href="https://github.com/gussouzauni">
+<img src="https://marcas-logos.net/wp-content/uploads/2020/03/GITHUB-LOGO-768x432.png" width="75" height="45"/>
 
-<img src="https://s.glbimg.com/po/tt/f/original/2011/04/19/linke.jpg" width="60" height="45" alt="Meu linkedin" href="https://www.linkedin.com/in/gussouza/"/>
+<a alt="Gustavo da Silva Souza Linkedin" href="https://www.linkedin.com/in/gussouza/">
+<img src="https://s.glbimg.com/po/tt/f/original/2011/04/19/linke.jpg" width="60" height="45" /></a>
 </p>
